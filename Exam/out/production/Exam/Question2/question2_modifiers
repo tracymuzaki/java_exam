@@ -1,0 +1,4 @@
+Modifiers are used when declaring attributes to grant access to them.
+A private modifier restricts access of attributes to only within that class in which it is used.
+A public access modifier allows access of attributes by classes outside that class without restriction.
+A protected modifier is mostly used in inheritance to extend the access of the attributes to the subclasses of that class in which it is used.
